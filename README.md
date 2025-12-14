@@ -76,12 +76,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarisAnugrah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&border_radius=10" height="160" alt="languages graph"  />
 </div>
 
-## 📊 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10" alt="activity graph"/>
-</div>
-
 ## 🌐 Connect with Me :
 
 <div align="center">
