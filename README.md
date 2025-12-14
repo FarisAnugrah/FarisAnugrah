@@ -5,15 +5,17 @@
   <img src="https://i.imgflip.com/65efzo.gif" height="200" alt="coding gif"/>
 </div>
 
-👨‍💻 About Me :
+## "👨‍💻 About Me :"
 
-🚀 I'm working as a Backend Developer and contributing to frontend and backend for building web applications
-💼 Experienced in PHP, Laravel, Node.js, Express.js, JavaScript, React, Next.js
-💬 Ask me about Laravel, API Development, Database Design
-📫 How to reach me: farisanugrah@gmail.com
+- 🚀 I'm working as a Backend Developer and contributing to frontend and backend for building web applications
+- 💼 Experienced in PHP, Laravel, Node.js, Express.js, JavaScript, React, Next.js
+- 💬 Ask me about Laravel, API Development, Database Design
+- 📫 How to reach me: farisanugrah@gmail.com
 
-🛠️ Languages and Tools :
-Frontend Development
+## "🛠️ Languages and Tools :
+
+### Frontend Development
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -30,7 +32,8 @@ Frontend Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="tailwind logo"  />
 </div>
 
-Backend Development
+### Backend Development
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
   <img width="12" />
@@ -47,7 +50,8 @@ Backend Development
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
 </div>
 
-Tools & Others
+### Tools & Others
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
@@ -62,7 +66,7 @@ Tools & Others
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="40" alt="composer logo"  />
 </div>
 
-🔥 My Stats :
+## "🔥 My Stats :"
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D" height="180" alt="streak stats"  />
 </div>
@@ -71,12 +75,14 @@ Tools & Others
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarisAnugrah&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=true&border_radius=10" height="160" alt="languages graph"  />
 </div>
 
-📊 Contribution Graph
+## "📊 Contribution Graph"
+
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10" alt="activity graph"/>
 </div>
 
-🌐 Connect with Me :
+## "🌐 Connect with Me :"
+
 <div align="center">
   <a href="https://github.com/FarisAnugrah" target="_blank">
     <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="github logo"  />
