@@ -5,7 +5,7 @@
 <br>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=BD93F9&width=800&lines=Hello+World!+👋;I'm+Faris+Anugrah;Full+Stack+Developer;Turning+Ideas+Into+Code;Let's+Build+Something+Epic!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&font=JetBrains+Mono&weight=700&size=32&duration=3000&pause=1000&color=BD93F9&width=800&lines=Hello+World!+;I'm+Faris+Anugrah;Full+Stack+Developer;Turning+Ideas+Into+Code;Let's+Build+Something+Epic!" alt="Typing SVG" />
   <br><br>
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height="150" alt="anime coding gif"/>
 </div>
@@ -23,11 +23,10 @@
 <br>
 <hr>
 
-## 📊 GitHub Analytics
+<h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FarisAnugrah&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&border_radius=10" alt="Faris's Github Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FarisAnugrah&layout=compact&langs_count=8&theme=dracula&hide_border=true&border_radius=10" alt="Faris's Top Langs" width="40%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10" alt="Faris's GitHub Streak" />
 </div>
 
 <br>
@@ -35,18 +34,20 @@
 
 <table width="100%" align="center" style="border: none;">
   <tr>
-    <td width="50%" align="left" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>💼 <b>Full Stack Developer</b> building scalable web apps.</li>
-        <li>🔭 Focusing on <b>Modern UIs & Robust APIs</b>.</li>
-        <li>🌱 Learning <b>System Design & Cloud Deployment</b>.</li>
-        <li>💬 Ask me about <b>Laravel, React, Node.js, & DB Design</b>.</li>
-        <li>⚡ Fun fact: <i>"It works on my machine!"</i></li>
-      </ul>
+    <td width="50%" align="center" valign="top">
+      <h2> About Me</h2>
+      <div align="left">
+        <ul>
+          <li> <b>Full Stack Developer</b> building scalable web apps.</li>
+          <li> Focusing on <b>Modern UIs & Robust APIs</b>.</li>
+          <li> Learning <b>System Design & Cloud Deployment</b>.</li>
+          <li> Ask me about <b>Laravel, React, Node.js, & DB Design</b>.</li>
+          <li> Fun fact: <i>"It works on my machine!"</i></li>
+        </ul>
+      </div>
     </td>
     <td width="50%" align="center" valign="top">
-      <h2>🛠️ Tech Stack</h2>
+      <h2> Tech Stack</h2>
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,cs&perline=5" alt="Backend" />
         <br><br>
@@ -61,13 +62,7 @@
 <br>
 <hr>
 
-## 🏆 Contributions & Activity
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=FarisAnugrah&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</div>
-
-<br>
+<h2 align="center"> Contribution Activity</h2>
 
 <div align="center">
   <picture>
