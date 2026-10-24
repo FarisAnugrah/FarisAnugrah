@@ -26,7 +26,8 @@
 <h2 align="center"> GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10" alt="Faris's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FarisAnugrah&show_icons=true&theme=dracula&hide_border=true&border_radius=10&include_all_commits=false&count_private=false" height="170" alt="Faris's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FarisAnugrah&theme=dracula&hide_border=true&border_radius=10" height="170" alt="Faris's GitHub Streak" />
 </div>
 
 <br>
